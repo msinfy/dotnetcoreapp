@@ -8,13 +8,14 @@ C:\Users\Md\source\repos\msinfy\dotnetcoreapp\app\app\bin\Debug\netcoreapp3.0\ap
 C:\Users\Md\source\repos\msinfy\dotnetcoreapp\app\app\bin\Debug\netcoreapp3.0\app.pdb
 C:\Users\Md\source\repos\msinfy\dotnetcoreapp\app\app\bin\Debug\netcoreapp3.0\app.Views.dll
 C:\Users\Md\source\repos\msinfy\dotnetcoreapp\app\app\bin\Debug\netcoreapp3.0\app.Views.pdb
-C:\Users\Md\source\repos\msinfy\dotnetcoreapp\app\app\obj\Debug\netcoreapp3.0\staticwebassets\app.StaticWebAssets.Manifest.cache
-C:\Users\Md\source\repos\msinfy\dotnetcoreapp\app\app\obj\Debug\netcoreapp3.0\staticwebassets\app.StaticWebAssets.xml
+C:\Users\Md\source\repos\msinfy\dotnetcoreapp\app\app\obj\Debug\netcoreapp3.0\app.csprojAssemblyReference.cache
+C:\Users\Md\source\repos\msinfy\dotnetcoreapp\app\app\obj\Debug\netcoreapp3.0\app.AssemblyInfoInputs.cache
+C:\Users\Md\source\repos\msinfy\dotnetcoreapp\app\app\obj\Debug\netcoreapp3.0\app.AssemblyInfo.cs
 C:\Users\Md\source\repos\msinfy\dotnetcoreapp\app\app\obj\Debug\netcoreapp3.0\app.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Md\source\repos\msinfy\dotnetcoreapp\app\app\obj\Debug\netcoreapp3.0\app.RazorAssemblyInfo.cache
 C:\Users\Md\source\repos\msinfy\dotnetcoreapp\app\app\obj\Debug\netcoreapp3.0\app.RazorAssemblyInfo.cs
-C:\Users\Md\source\repos\msinfy\dotnetcoreapp\app\app\obj\Debug\netcoreapp3.0\app.AssemblyInfoInputs.cache
-C:\Users\Md\source\repos\msinfy\dotnetcoreapp\app\app\obj\Debug\netcoreapp3.0\app.AssemblyInfo.cs
+C:\Users\Md\source\repos\msinfy\dotnetcoreapp\app\app\obj\Debug\netcoreapp3.0\staticwebassets\app.StaticWebAssets.Manifest.cache
+C:\Users\Md\source\repos\msinfy\dotnetcoreapp\app\app\obj\Debug\netcoreapp3.0\staticwebassets\app.StaticWebAssets.xml
 C:\Users\Md\source\repos\msinfy\dotnetcoreapp\app\app\obj\Debug\netcoreapp3.0\app.TagHelpers.input.cache
 C:\Users\Md\source\repos\msinfy\dotnetcoreapp\app\app\obj\Debug\netcoreapp3.0\app.TagHelpers.output.cache
 C:\Users\Md\source\repos\msinfy\dotnetcoreapp\app\app\obj\Debug\netcoreapp3.0\app.RazorCoreGenerate.cache
@@ -31,7 +32,4 @@ C:\Users\Md\source\repos\msinfy\dotnetcoreapp\app\app\obj\Debug\netcoreapp3.0\ap
 C:\Users\Md\source\repos\msinfy\dotnetcoreapp\app\app\obj\Debug\netcoreapp3.0\app.dll
 C:\Users\Md\source\repos\msinfy\dotnetcoreapp\app\app\obj\Debug\netcoreapp3.0\app.pdb
 C:\Users\Md\source\repos\msinfy\dotnetcoreapp\app\app\obj\Debug\netcoreapp3.0\app.csproj.CopyComplete
-C:\Users\Md\source\repos\msinfy\dotnetcoreapp\app\app\obj\Debug\netcoreapp3.0\app.csprojAssemblyReference.cache
-C:\Users\Md\source\repos\msinfy\dotnetcoreapp\app\app\obj\Debug\netcoreapp3.0\app.csproj.CoreCompileInputs.cache
-C:\Users\Md\source\repos\msinfy\dotnetcoreapp\app\app\obj\Debug\netcoreapp3.0\scopedcss\bundle\app.styles.css
-C:\Users\Md\source\repos\msinfy\dotnetcoreapp\app\app\obj\Debug\netcoreapp3.0\app.genruntimeconfig.cache
+C:\Users\Md\source\repos\msinfy\dotnetcoreapp\app\app\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
